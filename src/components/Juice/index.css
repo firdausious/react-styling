@@ -1,0 +1,9 @@
+.juiceBox {
+  margin: 40px;
+  border: 5px dotted pink;
+}
+
+.juiceContent {
+  font-size: 15px;
+  text-align: center;
+}
